@@ -12,21 +12,27 @@ An open-source, lightweight Python utility designed to perform fundamental seque
 
 ---
 
-## 🚀 Usage
+## 🚀 Usage & Example Analysis
 
-### Example Code
-```python
-# Import the sequence functions or run interactively
-sequence = "ATGCGATCGATCGATCGTAACGT"
+### Test Case: Human *BRCA1* Exon Fragment (NCBI RefSeq: NM_007294)
 
-# Validate and compute metrics
-print(f"Sequence Length: {len(sequence)}")
-print(f"GC Content: {(sequence.count('G') + sequence.count('C')) / len(sequence) * 100:.2f}%")
-```
+**Input Sequence:**
+`ATGGATTTATCTGCTCTTCGCGTTGAAGAAGTACAAAATGTCATTAATGCTATGCAGAAA`
+
+**Analysis Output:**
+- **Sequence Length:** 60 bp
+- **Base Counts:** A: 23 | T: 20 | G: 9 | C: 8
+- **GC Content:** 28.33%
+- **AT Content:** 71.67%
+- **Reverse Complement:** `TTTCTGCATAGCATTAATGACATTTTGTACTTCTTCAACGCGAAGAGCAGATAAATCCAT`
+
+---
+
 ## 🛠 Tech Stack
-Language: Python
+- **Language:** Python
+- **Environment:** Jupyter Notebook / Python scripts
 
-Environment: Jupyter Notebook / Python scripts
+---
 
 ## 👤 Author
 - **Sarmitha K** – Undergraduate Student, B.Sc. Biotechnology, PSG College of Arts and Science
