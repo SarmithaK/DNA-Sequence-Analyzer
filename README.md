@@ -37,4 +37,4 @@ An open-source, lightweight Python utility designed to perform fundamental seque
 ## 👤 Author
 - **Sarmitha K** – Undergraduate Student, B.Sc. Biotechnology, PSG College of Arts and Science
 - **GitHub:** https://github.com/SarmithaK
-- **LinkedIn:** https://www.linkedin.com/in/sarmitha-k-4a9156305
+- **LinkedIn:** https://www.linkedin.com/in/sarmitha-k-4a9156395
